@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">Nemirovich Dim AS-64</string>
+    <string name="likeBtn" translatable="false">Like</string>
+    <string name="dislikeBtn" translatable="false">Dislike</string>
+    <string name="image" translatable="false">Image</string>
+    <string name="downloadBtn" translatable="false">Download</string>
+    <string name="showInWeb" translatable="false">Open in browser</string>
+    <string name="search_image" translatable="false">Search Image</string>
+    <string name="search" translatable="false">Search!</string>
+    <string name="author" translatable="false">Немирович Дмитрий Александрович</string>
+    <string name="authorBtn" translatable="false">Author</string>
+</resources>
